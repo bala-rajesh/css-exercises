@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+button{
+    font-size: 18px;
+}
+.clickMe{
+    background-color: black;
+    color: white;
+
+}
+.clickmeNot{
+    background-color: yellow;
+    color: black;
+    border-color: black;
+
+}
